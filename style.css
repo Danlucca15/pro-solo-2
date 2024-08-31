@@ -1,3 +1,8 @@
+:root {
+    font-family: "Open Sans", sans-serif;
+    line-height: 22px;
+}
+
 img {
     border-radius: 28px; 
     width: 100%;
@@ -12,7 +17,7 @@ margin: 88px auto;
 .subtitle {
     font-size: 16px;
     line-height: 22px;
-    font-style: italic; /* Muda estilo da fonte para itálico */
+    font-style: italic;
     text-align: center;
     color: #333333;
     margin-top: 24px;
@@ -21,7 +26,7 @@ margin: 88px auto;
   .headline {
     font-size: 16px;
     line-height: 22px;
-    font-weight: bold; /* a fonte fica em negrito */
+    font-weight: bold;
     color: #e1624f;
-    text-transform: uppercase; /* a fonte fica com todas as letras em maiúsculo */
+    text-transform: uppercase;
   }
